@@ -119,8 +119,8 @@ Inside the notebook:
 Data Source: K–12 School Shooting Database (SSDB), Public v4.1.
 The dataset documents any incident in which a gun is fired, brandished, or a bullet hits school property.
 
-Author
-	Madiha Zara
-	DATA 6150 – Data Science Project
-	Wentworth Institute of Technology
-	Fall 2025
+Author<br>
+	Madiha Zarar<br>
+	DATA 6150 – Data Science Projectr<br>
+	Wentworth Institute of Technologyr<br>
+	Fall 2025<br>
