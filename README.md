@@ -28,23 +28,34 @@ To answer these questions, the analysis includes:
 ## Repository Structure
 
 DATA6150-gunfire-on-school/
+
 ├─ Datasets/
+
 │ ├─ 3b_Dataset_Incident.xlsx # Original dataset (Incident sheet only)
+
 │ ├─ yearly_incidents_sklearn_from_notebook.csv # Yearly incidents + model predictions (from notebook)
+
 │ └─ state_incidents_sklearn_from_notebook.csv # State-level incident counts (from notebook)
-│
+
+
 ├─ Codes/
+
 │ ├─ incident_analysis.py # Standalone Python script (user chooses file paths)
+
 │ └─ 0a_incident_analysis_optionA.ipynb # Full Jupyter analysis notebook
-│
+
 ├─ Pictures/
+
 │ ├─ yearly_trend.png # Trend plot (actual vs fitted)
+
 │ └─ state_top15_incidents.png # Bar chart of top 15 states
-│
+
 ├─ Report/
+
 │ ├─ IncidentAnalysis_Report.docx # Full written report (Word)
+
 │ └─ IncidentAnalysis_Report.pdf # Final PDF report
-│
+
 └─ README.md
 
 
