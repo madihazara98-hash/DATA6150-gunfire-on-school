@@ -29,21 +29,21 @@ To answer these questions, the analysis includes:
 
 DATA6150-gunfire-on-school/
 
-├─ Datasets/
+├─ Datasets/<br>
 │ ├─ 3b_Dataset_Incident.xlsx # Original dataset (Incident sheet only)<br>
 │ ├─ yearly_incidents_sklearn_from_notebook.csv # Yearly incidents + model predictions (from notebook)/<br>
 │ └─ state_incidents_sklearn_from_notebook.csv # State-level incident counts (from notebook)<br>
 
 
-├─ Codes/
+├─ Codes/<br>
 │ ├─ incident_analysis.py # Standalone Python script (user chooses file paths)<br>
 │ └─ 0a_incident_analysis_optionA.ipynb # Full Jupyter analysis notebook<br>
 
-├─ Pictures/
+├─ Pictures/<br>
 │ ├─ yearly_trend.png # Trend plot (actual vs fitted)<br>
 │ └─ state_top15_incidents.png # Bar chart of top 15 states<br>
 
-├─ Report/
+├─ Report/<br>
 │ ├─ IncidentAnalysis_Report.docx # Full written report (Word)<br>
 │ └─ IncidentAnalysis_Report.pdf # Final PDF report<br>
 
